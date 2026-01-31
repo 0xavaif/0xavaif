@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=546&color=F70000&center=true&width=435&lines=I+L1v3+1n+54d0w5+;I+am+;BATMAN)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=546&color=F70000&center=true&width=435&lines=Hacker+;Cybersecurity+Researcher+;BugBounty+Hunter)](https://git.io/typing-svg)
 
 
 
